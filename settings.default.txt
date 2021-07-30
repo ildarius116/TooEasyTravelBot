@@ -1,0 +1,7 @@
+BOT_TOKEN = 'Токен Телеграм-БОТа'
+API_KEY = "API-ключ сайта"
+
+Например:
+BOT_TOKEN = "1882674087:AAFeci-3X301JMWIbWpGSmrqvgWbgZrqivI"
+API_KEY = "4642b0b816msheac878fc118ea6ep161c83jsne1f3307f89e6"
+
